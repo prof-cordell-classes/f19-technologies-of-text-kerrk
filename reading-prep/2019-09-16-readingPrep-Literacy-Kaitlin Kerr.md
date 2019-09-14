@@ -1,0 +1,11 @@
+# Reading Prep: Chapter 2: Literacy 
+
+#### Kaitlin Kerr 
+
+## Questions or Observations
+
+1. As Vee explains in “Computer Programming as Literacy,” “…programming is so infrastructural to everything we say and do now, leaving it to computer science is like leaving writing to English or other language departments” (7). At Northeastern, students are required to take various “Writing in the Disciplines” courses in order to fulfill graduation requirements, thus not leaving writing to language departments, but integrating it into every student’s curriculum. Is a world where all students learn how to code foreseeable? Is learning how to program for our chosen discipline essential to becoming equipped for the job market? Is learning to code another foundational method of thinking that will one day join the ranks of math, science, and English?
+
+2. Borsuk explains in *The Book* that we are only accustomed to using a codex because it represents a "...shift from oral to literate culture..." (1). If, as Vee describes, we teach children to be “procedurally literate” in programming, how would this new "species of writing" shift our culture? When thinking about the shift from *oral* to *literate* to *blank*  – what word can we even use to fill in that blank cultural next step?  How does science/speculative fiction such as Butler’s “Speech Sounds” help us to imagine these futures? 
+
+3. In Ælfric’s preface to his translation of Genesis, he notes, “the work [of translation] is very dangerous to me or anyone to undertake.” Ælfric was concerned that by translating Genesis from Latin to English, he’d be creating confusion and chaos. “Foolish” and “unlearned” people might misunderstand the text, for once a text becomes accessible to readers, it also becomes accessible to misinterpretation. Taking Ælfric’s concern for distortion into consideration, how are we to read the contents of the different early reading technologies Borsuk describes in *The Book*? Should we leave clay “bulla” and string “khipu” untranslated, and instead focus on their form? Or is there still something to be gleaned from attempts at translation?  
